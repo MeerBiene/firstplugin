@@ -1,0 +1,29 @@
+name: realPlugin
+version: "1.0-SNAPSHOT"
+author: "MeerBiene, Up2d8"
+main: me.stlf.claimblock.Main
+commands:
+   claimblock:
+      description: Claim your own block
+      usage: /<claimblock> 
+      help: This is a very helpful help text if it helped you make sure to subscribe and turn on notifications
+      permission: claimblock.claimblock
+      permission-message: You don't have <permission>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
