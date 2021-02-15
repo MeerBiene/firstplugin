@@ -10,7 +10,7 @@ public class JoinListener implements Listener {
     @EventHandler
     public void onJoin(PlayerJoinEvent event) {
         Player player = event.getPlayer();
-        player.sendMessage("Seid gegruesst");
+        player.sendMessage("Seid gegrüßt");
         event.setJoinMessage("ein neuer Spieler");
     }
 
